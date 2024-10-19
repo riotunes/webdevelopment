@@ -21,3 +21,11 @@ p {
   margin: 0.5%;
 }
 
+img {
+  width: 41%;
+  display: inline-block;
+}
+
+#me {
+  width: 14%
+}
