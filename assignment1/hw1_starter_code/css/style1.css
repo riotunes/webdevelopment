@@ -1,0 +1,41 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120%;
+    background-color: aliceblue;
+}
+
+header {
+    background-color: aliceblue;
+}
+
+nav {
+    background-color: lightblue;
+    line-height: 200%;
+}
+
+main {
+    background-color: lightblue;
+    font-size: 100%;
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+li {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: default;
+    font-style: italic;
+    color: darkslategrey;
+}
+
+p {
+    line-height: 150%;
+    text-align: justify;
+}
